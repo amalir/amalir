@@ -1,4 +1,6 @@
-### Hi there 👋
+ - [Telegram](https://t.me/admalir)
+- [HomePage](https://www.astronom.cz/malir/)
+ 
 
 <!--
 **amalir/amalir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
