@@ -4,6 +4,7 @@
 
 [/justforfun](/justforfun/README.md) [/garbage](/garbage/README.md)
 
+![Alt Text](ueD3gLl.gif)
 
 <!--
 **amalir/amalir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
