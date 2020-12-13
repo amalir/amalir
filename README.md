@@ -2,7 +2,7 @@
 - [Telegram](https://t.me/admalir)
 - [HomePage](https://www.astronom.cz/malir/)
 
-- [/justforfun](/justforfun/README.md) [/garbage](/garbage/README.md) 
+[/justforfun](/justforfun/README.md) [/garbage](/garbage/README.md) 
 
 
 
