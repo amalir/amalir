@@ -6,8 +6,6 @@
 
 
 
-<img align="right" src="ueD3gLl.gif">
-
 
 
 
