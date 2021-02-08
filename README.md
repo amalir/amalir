@@ -2,7 +2,7 @@
 
 
 It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
-<br/>Gauss
+<br/>[Gauss](https://www.brainyquote.com/quotes/carl_friedrich_gauss_319895)
 
 
 
