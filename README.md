@@ -1,4 +1,4 @@
-[/justforfun](/justforfun/README.md) [/garbage](/garbage/README.md) 
+[/justforfun](/justforfun/README.md)
 
 
 It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
