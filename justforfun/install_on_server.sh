@@ -1,1 +1,0 @@
-sudo apt install postgresql postgresql-contrib -y && sudo apt install apache2 -y && sudo apt install php libapache2-mod-php -y && sudo apt-get install php7.3-pgsql -y && /usr/local/pgsql/bin/createdb test && pg_dump -U pi test > ddl.sql 
