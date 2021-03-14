@@ -1,8 +1,9 @@
 [/justforfun](/justforfun/README.md)
 <br>
-<!--[HomePage](https://www.astronom.cz/malir)
+Pardubice, Czechia
+<!--[HomePage](https://www.astronom.cz/malir)-->
 
-> It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
+It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
 <br>[Gauss](https://www.brainyquote.com/quotes/carl_friedrich_gauss_319895)
 
 
