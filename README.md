@@ -1,13 +1,10 @@
 [/justforfun](/justforfun/README.md)
-<br>
-Pardubice, Czechia
+
 <!--[HomePage](https://www.astronom.cz/malir)-->
 
-It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment.
-<br>[Gauss](https://www.brainyquote.com/quotes/carl_friedrich_gauss_319895)
+📫 [Telegram](https://t.me/bwv582), astromalir(at)gmail.com
 
-
-
+![alt text](https://www.codewars.com/users/malir/badges/micro)
 
 <!--
 **amalir/amalir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
