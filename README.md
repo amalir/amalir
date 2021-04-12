@@ -4,7 +4,7 @@
 
 📫 [Telegram](https://t.me/bwv582), astromalir(at)gmail.com
 
-![alt text](https://www.codewars.com/users/malir/badges/micro)
+[![alt text](https://www.codewars.com/users/malir/badges/micro)](https://www.codewars.com/users/malir)
 
 <!--
 **amalir/amalir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
