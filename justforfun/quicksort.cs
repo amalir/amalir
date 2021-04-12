@@ -1,6 +1,6 @@
 using System;
-using System.Collections.Generic;
 using System.Linq;
+using System.Collections.Generic;
 
 class MainClass {
 
@@ -27,11 +27,8 @@ class MainClass {
 
   static List < int > Sort(List < int > arr) {
 
-    List < int > left = new List < int > ();
-    List < int > right = new List < int > ();
-
-    int mx = arr.Count - 1;
-    int pivot = arr[mx];
+    List < int > left = new List < int > (), right = new List < int > ();
+    int mx = arr.Count - 1, pivot = arr[mx];
 
     for (int i = 0; i < mx; i++) {
       if (arr[i] > pivot) right.Add(arr[i]);
@@ -50,11 +47,9 @@ class MainClass {
 
   static void Vypis() {
 
-    foreach(int i in arr) {
+    foreach(int i in arr) 
       Console.Write(i + " ");
-    }
     Console.WriteLine("");
 
   }
-
 }
