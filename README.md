@@ -2,7 +2,7 @@
 
 <!--[HomePage](https://www.astronom.cz/malir)-->
 
-📫 [Telegram](https://t.me/bwv582), astromalir(at)gmail.com
+📫 [Telegram](https://t.me/malirl), astromalir(at)gmail.com
 
 [![alt text](https://www.codewars.com/users/malir/badges/micro)](https://www.codewars.com/users/malir)
 
